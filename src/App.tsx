@@ -41,10 +41,10 @@ function App() {
   const jobs: Job[] = [
     {
       id: 1,
-      title: "Software Engineer - Frontend",
-      company: "Tech Solutions Inc.",
-      location: "Atlanta, GA",
-      salary: "₹75,000 - ₹95,000",
+      title: "SBI Clerk Recruitment 2025 - Frontend",
+      company: "State Bank Of India.",
+      location: "Mumbai, Maharastra",
+      salary: "₹45000",
       experience: "2-4 years",
       type: "private",
       postedDate: "2025-01-12",
