@@ -41,7 +41,7 @@ function App() {
   const jobs: Job[] = [
     {
       id: 1,
-      title: "SBI Clerk Recruitment 2025 - Frontend",
+      title: "SBI Clerk Recruitment 2025 ",
       company: "State Bank Of India.",
       location: "Mumbai, Maharastra",
       salary: "₹45000",
