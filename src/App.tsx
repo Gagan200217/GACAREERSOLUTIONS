@@ -49,9 +49,16 @@ function App() {
       type: "government",
       postedDate: "2025-01-12",
       deadline: "2025-02-15",
-      description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications for the post of Junior Associate (Customer Support & Sales). This is a significant opportunity for graduates looking to build a career in the banking sector. With 5583 vacancies across the country, this recruitment drive offers a stable and well-paying government job. The starting salary for a Junior Associate in a metro city like Mumbai is approximately ₹46,000 per month, inclusive of all allowances. The application window is open from August 6, 2025, to August 26, 2025. This article provides a comprehensive guide to help you navigate the application process and prepare for the examination..",
+      description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications for the post of Junior Associate (Customer Support & Sales).
+        This is a significant opportunity for graduates looking to build a career in the banking sector. With 5583 vacancies across the country,
+    this recruitment drive offers a stable and well-paying government job. The starting salary for a Junior Associate in a metro city like Mumbai is approximately ₹46,000 per month, inclusive of all allowances. 
+    The application window is open from August 6, 2025, to August 26, 2025. This article provides a comprehensive guide to help you navigate the application process and prepare for the examination..
+  Age Limit (as on April 1, 2025)
+Minimum Age: 20 years
+Maximum Age: 28 years
+Candidates must have been born not earlier than April 2, 1997, and not later than April 1, 2005 (both days inclusive).. ",
       requirements: ["N/A"],
-      applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
+      applyLink: "https://ibpsonline.ibps.in/sbijajul25/"
     },
     {
       id: 2,
