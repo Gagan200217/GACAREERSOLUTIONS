@@ -51,7 +51,7 @@ function App() {
       deadline: "2025-07-26",
       description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications",
       requirements: ["N/A"],
-      applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
+      applyLink: "https://ibpsonline.ibps.in/sbijajul25/"
     },
 
     {
