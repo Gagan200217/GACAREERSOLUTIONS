@@ -47,8 +47,8 @@ function App() {
       salary: "₹45000",
       experience: "1-3 years",
       type: "government",
-      postedDate: "2025-07-06",
-      deadline: "2025-07-26",
+      postedDate: "2025-08-06",
+      deadline: "2025-08-26",
      description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications.",
 requirements: ["N/A"],
 
