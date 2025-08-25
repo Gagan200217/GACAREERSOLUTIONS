@@ -45,7 +45,7 @@ function App() {
       company: "SBI",
       location: "Mumbai, Maharastra",
       salary: "₹45000",
-      experience: "1-3 years",
+      experience: "0 years",
       type: "government",
       postedDate: "2025-08-06",
       deadline: "2025-08-26",
