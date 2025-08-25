@@ -53,10 +53,10 @@ function App() {
         This is a significant opportunity for graduates looking to build a career in the banking sector. With 5583 vacancies across the country,
     this recruitment drive offers a stable and well-paying government job. The starting salary for a Junior Associate in a metro city like Mumbai is approximately ₹46,000 per month, inclusive of all allowances. 
     The application window is open from August 6, 2025, to August 26, 2025. This article provides a comprehensive guide to help you navigate the application process and prepare for the examination..
-  <p> Age Limit (as on April 1, 2025)
+  <p>Age Limit (as on April 1, 2025)
 Minimum Age: 20 years
 Maximum Age: 28 years
-Candidates must have been born not earlier than April 2, 1997, and not later than April 1, 2005 (both days inclusive)..<p> ",
+Candidates must have been born not earlier than April 2, 1997, and not later than April 1, 2005 (both days inclusive).<br> ",
       requirements: ["N/A"],
       applyLink: "https://ibpsonline.ibps.in/sbijajul25/"
     },
