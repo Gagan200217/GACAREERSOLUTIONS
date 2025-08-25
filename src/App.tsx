@@ -49,7 +49,8 @@ function App() {
       type: "government",
       postedDate: "2025-08-06",
       deadline: "2025-08-26",
-     description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications.",
+     description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications for the post of Junior Associate (Customer Support & Sales). 
+This is a significant opportunity for graduates looking to build a career in the banking sector. With 5583 vacancies across the country, this recruitment drive offers a stable and well-paying government job.",
 requirements: ["N/A"],
 
       applyLink: "https://ibpsonline.ibps.in/sbijajul25/"
