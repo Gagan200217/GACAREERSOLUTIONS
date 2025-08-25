@@ -50,7 +50,7 @@ function App() {
       postedDate: "2025-01-12",
       deadline: "2025-02-15",
       description: "Join our dynamic team to build cutting-edge web applications using React and modern technologies.",
-      requirements: ["React.js", "TypeScript", "CSS", "Problem-solving"],
+      requirements: ["N/a"],
       applyLink: "https://techsolutions.com/careers/software-engineer-frontend"
     },
     {
