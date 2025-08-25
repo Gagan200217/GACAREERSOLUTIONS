@@ -46,7 +46,7 @@ function App() {
       location: "Mumbai, Maharastra",
       salary: "₹45000",
       experience: "2-4 years",
-      type: "private",
+      type: "government",
       postedDate: "2025-01-12",
       deadline: "2025-02-15",
       description: "Join our dynamic team to build cutting-edge web applications using React and modern technologies.",
