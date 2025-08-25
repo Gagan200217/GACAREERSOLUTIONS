@@ -47,7 +47,7 @@ function App() {
       salary: "₹45000",
       experience: "0 years",
       type: "government",
-      postedDate: "2025-08-06",
+      postedDate: "2025-08-25",
       deadline: "2025-08-26",
       description: "The State Bank of India (SBI) has announced its much-awaited SBI Clerk Recruitment 2025, inviting applications for the post of Junior Associate (Customer Support & Sales). This is a significant opportunity for graduates looking to build a career in the banking sector. With 5583 vacancies across the country, this recruitment drive offers a stable and well-paying government job. The starting salary for a Junior Associate in a metro city like Mumbai is approximately ₹46,000 per month, inclusive of all allowances. The application window is open from August 6, 2025, to August 26, 2025..",
       requirements: ["N/A"],
